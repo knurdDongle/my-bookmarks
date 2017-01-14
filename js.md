@@ -10,6 +10,6 @@
 - [meteor source](https://github.com/meteor/meteor)
 
 ##Angular
-	- [Angular source](https://github.com/angular/angular)
-	- [angular seed](https://github.com/angular/angular-seed) application start
+- [Angular source](https://github.com/angular/angular)
+- [angular seed](https://github.com/angular/angular-seed) application start
 

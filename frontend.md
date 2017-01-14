@@ -2,8 +2,8 @@
 
 ##Framework
 - [Bootstrap](https://github.com/twbs/bootstrap)
-	--[bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
-	--[bootstrap-star-rating](https://github.com/kartik-v/bootstrap-star-rating)
+--[bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
+--[bootstrap-star-rating](https://github.com/kartik-v/bootstrap-star-rating)
 
 
 ##Css
