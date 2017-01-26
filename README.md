@@ -7,6 +7,7 @@
 - [Js](js.md)
 - [Git](git.md)
 - [Tutorials](tutorials.md)
+- [static site generators](static-site-generators.md)
 
 
 ##Fonts
